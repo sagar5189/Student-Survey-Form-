@@ -44,7 +44,7 @@ Screenshots
 
 1. Clone the repository:
 </code>
-git clone https://github.com/your-username/student-survey-form.git
+git clone https://github.com/sagar5189/Student-Survey-Form-
 
 2. Navigate to the project folder:
 </code>
